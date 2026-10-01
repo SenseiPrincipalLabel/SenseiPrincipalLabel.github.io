@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://senseiprincipallabel.github.io/sitemap.xml
